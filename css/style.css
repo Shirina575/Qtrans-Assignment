@@ -1,0 +1,28 @@
+
+.container{
+    background-color: gainsboro;
+    font-family: 'Itim', cursive;
+}
+img{
+    height: 260px;
+    width: auto;
+}
+
+.form-margin{
+    margin-left: 50px;
+}
+
+.button{
+    background-color: rgb(31, 61, 126);
+    color: white;
+    height: 30px;
+    width: 130px;
+    text-align: center;
+    border: rgb(31, 61, 126);
+    border-radius: 2px;
+}
+
+select{
+    height: 30px;
+    width: 130px;
+}
